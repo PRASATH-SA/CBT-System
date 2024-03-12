@@ -1,0 +1,39 @@
+.container{
+    height:100vh;
+    width:100%;
+    
+}
+body{
+    margin:0;
+    padding:0;
+    text-transform: capitalize;
+    background-image: url("https://png.pngtree.com/background/20230517/original/pngtree-school-bus-on-a-road-in-the-autumn-picture-image_2625833.jpg");
+}
+ol{
+    list-style: none;
+}
+.Logo
+{
+    text-align:center;
+    font-weight:bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:20px;
+    padding:5px;
+    color:white;
+
+}
+.navBar
+{
+    background-image:linear-gradient(60deg,blue,red);
+    box-shadow:2px 3px 5px black;
+    color:white;
+}
+.list{
+    text-align: left;
+}
+#mapS{
+    height:60vh;
+    width:100%;
+}
+
+
